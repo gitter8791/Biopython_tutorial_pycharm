@@ -1,0 +1,3 @@
+import Biopython_Tutorial
+
+Biopython_Tutorial.f_location_test()
